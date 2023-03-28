@@ -14,7 +14,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/dheerxj/buildit">
     <img src="images/buildit.jpg" alt="Logo" width="80" height="80">
   </a>
 
@@ -66,11 +66,23 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/buildit.jpg" alt="Logo" width="180" height="200">
-    <img src="images/buildit.jpg" alt="Logo" width="180" height="200">
-    <img src="images/buildit.jpg" alt="Logo" width="180" height="200">
+<a href="https://github.com/dheerxj/buildit">
+    <img src="images/Picture1.jpg" alt="Logo1" width="180" height="400">
+    <img src="images/Picture2.jpg" alt="Logo2" width="180" height="400">
+    
   </a>
+  <br>
+  
+<a href="https://github.com/dheerxj/buildit">
+  
+  
+  <img src="images/Picture3.jpg" alt="Logo3" width="180" height="400">
+    <img src="images/Picture4.jpg" alt="Logo4" width="180" height="400">
+      
+  </a>
+  
+  
+  
   
 <br>
 
